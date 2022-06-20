@@ -26,7 +26,7 @@ https://aosus.org/writing-contest
 جائزة أسس للكتابة هي جائزة شهرية لتحفيز الكتاب لكتابة مواضيع حول البرمجيات الحرة والمفتوحة، لإثراء المحتوى العربي عنها.
 تصل جوائز الجائزة الى أكثر من 1000 ريال سعودي(266 دولار امريكي)!
 
-### معجم أسس(تحت التطوير)
+### معجم أسس (تحت التطوير)
 ![dictionary-icon](https://aosus.org/wp-content/uploads/2021/10/Dictionary-icon-white-263x300.png)
 
 https://dictionary.aosus.org | https://github.com/aosus/arabic-tech-dictionary
