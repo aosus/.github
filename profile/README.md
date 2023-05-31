@@ -17,14 +17,19 @@ https://discourse.aosus.org
 
 أكبر جزء من مشروع أسس، وهو مخصص للجميع في مساهمة إثراء المحتوى العربي التقني المتخصص بالبرمجيات الحرة والمفتوحة.
 
+### discourse-chat-bridge
+![discourse-chat-bridge](https://aosus.org/wp-content/uploads/2023/03/Discourse_Bridge-white-300x183.webp)
 
-### جائزة أسس للكتابة
-![writing-contest](https://aosus.org/wp-content/uploads/2021/10/writing-contest-300x240.png.webp)
+https://github.com/aosus/discourse-chat-bridge
 
-https://aosus.org/writing-contest
+  جسر يقوم بربط المجتمع بغرف محادثة, لتمكن المستخدمين من التفاعل مع مواضيع المجتمع من داخل منصاتهم المفضلة, دون الحاجة لزيارة موقع المجتمع.
 
-جائزة أسس للكتابة هي جائزة شهرية لتحفيز الكتاب لكتابة مواضيع حول البرمجيات الحرة والمفتوحة، لإثراء المحتوى العربي عنها.
-تصل جوائز الجائزة الى أكثر من 1000 ريال سعودي(266 دولار امريكي)!
+### تًرجمان
+![Torjoman](https://aosus.org/wp-content/uploads/2023/03/Torjoman-Logo-Arabic-white.svg)
+
+https://torjoman.aosus.dev/
+
+المشروع الرئاد في حركة الترجمة في مجتمع أسس, يمكن الجميع من الترجمه من داخل منصاتهم المفضلة, عبر ارسال عدد معين من الكلمات الى المستخدم, ثم تجميع الاقتراحات وتنقيحها ثم رفعها للمشروع المترجم.
 
 ### معجم أسس (تحت التطوير)
 ![dictionary-icon](https://aosus.org/wp-content/uploads/2021/10/Dictionary-icon-white-263x300.png)
