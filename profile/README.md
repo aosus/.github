@@ -13,9 +13,14 @@
 ### المجتمع
 ![aosus-community](https://aosus.org/wp-content/uploads/2021/09/fav-150x150.png.webp)
 
-https://discourse.aosus.org
+[https://discourse.aosus.org](https://discourse.aosus.org?ref=Github&&utm_content=.github)
 
 أكبر جزء من مشروع أسس، وهو مخصص للجميع في مساهمة إثراء المحتوى العربي التقني المتخصص بالبرمجيات الحرة والمفتوحة.
+
+### خدمات أسس العامة
+في سبيل دعم الخصوصية الرقمية, وزيادة الوعي عنها, يقدم مجتمع أسس خِدْمَات عامة, توفر واجهات لمنصات معروفة مثل Youtube, Tiktok, reddit وغيرها دون أعلانات او تتبع.
+
+[https://aosus.org/services](https://aosus.org/services?ref=Github&&utm_content=.github)
 
 ### discourse-chat-bridge
 ![discourse-chat-bridge](https://aosus.org/wp-content/uploads/2023/03/Discourse_Bridge-white-300x183.webp)
@@ -23,19 +28,5 @@ https://discourse.aosus.org
 https://github.com/aosus/discourse-chat-bridge
 
   جسر يقوم بربط المجتمع بغرف محادثة, لتمكن المستخدمين من التفاعل مع مواضيع المجتمع من داخل منصاتهم المفضلة, دون الحاجة لزيارة موقع المجتمع.
-
-### تًرجمان
-![Torjoman](https://aosus.org/wp-content/uploads/2023/03/Torjoman-Logo-Arabic-white.svg)
-
-https://torjoman.aosus.dev/
-
-المشروع الرئاد في حركة الترجمة في مجتمع أسس, يمكن الجميع من الترجمه من داخل منصاتهم المفضلة, عبر ارسال عدد معين من الكلمات الى المستخدم, ثم تجميع الاقتراحات وتنقيحها ثم رفعها للمشروع المترجم.
-
-### معجم أسس (تحت التطوير)
-![dictionary-icon](https://aosus.org/wp-content/uploads/2021/10/Dictionary-icon-white-263x300.png)
-
-https://dictionary.aosus.org | https://github.com/aosus/arabic-tech-dictionary
-
-معجم أسس يهدف لانشاء معجم عربي للمساهمة في ترجمة البرمجيات الحرة والمفتوحة للغة العربية باستخدام ترجمة مفهومة من الجميع.
 
 </div>
