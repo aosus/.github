@@ -1,6 +1,6 @@
 <div align="center">
 
-![aosus-preview](https://aosus.org/wp-content/uploads/2022/07/aosus-preview.jpg)
+![aosus-preview](https://aosus.org/opengraph.jpg)
 
 # مجتمع أسس
 
@@ -11,7 +11,7 @@
 
 ## مشاريعنا
 ### المجتمع
-![aosus-community](https://aosus.org/wp-content/uploads/2021/09/fav-150x150.png.webp)
+![aosus-community](https://aosus.org/favicon.ico)
 
 [https://discourse.aosus.org](https://discourse.aosus.org?ref=Github&&utm_content=.github)
 
